@@ -1,0 +1,2 @@
+#!/bin/sh
+proxysql -f -c /etc/proxysql/proxysql.cnf --reload
